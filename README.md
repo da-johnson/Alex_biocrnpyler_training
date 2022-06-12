@@ -1,2 +1,3 @@
 # Alex_biocrnpyler_training
-shared repository of training for biocrnpyler
+
+This is a repository for Alex to share his biocrnpyler practice. Please use this space to offer suggestions and markup notebooks. -Cheers
